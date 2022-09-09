@@ -26,3 +26,4 @@
 "note_ch":"爱意东升日落,浪漫至死不渝",
 # 金句英文
 "note_en":"Romance lasts until death"
+}
